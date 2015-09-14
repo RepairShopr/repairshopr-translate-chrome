@@ -1,8 +1,9 @@
-Asana Translate Chrome extension
+RepairShopr Translate Chrome extension
 ================================
 
-I asked ASANA team if they had planned to translate Asana into multiple languages.
-Response was: not in roadmap. So I decided to create my own chrome extension to translate it.
+This cool guy built a tool to translate ASANA.
+
+We think it might be useful to use a similar setup to allow people to translate RepairShopr!
 
 Want your own language? You can help! Read below :)
 
@@ -13,6 +14,8 @@ How to install extension
 Choose your flavour:
 
 **Easy as pie**
+
+(coming soon)
 
 - Download from [Chrome Web Store](https://chrome.google.com/webstore/detail/mmmjfjdbamonmaajclfcpicaanaonlfc)
 
